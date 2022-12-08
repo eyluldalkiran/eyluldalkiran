@@ -10,8 +10,7 @@
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
----
+
 
 <!---
 eyluldalkiran/eyluldalkiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
