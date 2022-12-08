@@ -6,7 +6,7 @@
 </em></p>
 
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/eyl%C3%BCl-dalk%C4%B1ran-24870518b/)
+[![Linkedin: Eylül Dalkıran](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/eyl%C3%BCl-dalk%C4%B1ran-24870518b/)
 
 
 
