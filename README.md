@@ -1,6 +1,6 @@
 
 
-<h2> Hi, I'm Eylül Dalkıran <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/80390060030853805991279322829627921456173715833405309723844448000109187170305)" width="50"></h2>
+<h2> Hi, I'm Eylül Dalkıran <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>I'm a senior computer engineering student at Gazi University</br>
   <p>
