@@ -1,7 +1,6 @@
 
 
-<h2> Hi, I'm Eylül Dalkıran <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi there,  I'm Eylül👋</h2>
 
 
   <h4 align="left">Languages and Tools:</h3>
@@ -16,12 +15,6 @@
 
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eyluldalkiran)](https://git.io/streak-stats)
 
-
-
-
-<!---
-eyluldalkiran/eyluldalkiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
